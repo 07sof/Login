@@ -85,12 +85,4 @@ color: white;
 .links a{
 margin-left: 4px;
 }
-
-@media (max-width: 760px){
-    html, body{
-        background-image: url('https://images.unsplash.com/photo-1482066490729-6f26115b60dc?ixlib=rb-1.2.1&auto=format&fit=crop&w=702&q=80');
-        background-size: cover;
-        background-repeat: no-repeat;
-        height: 600px;
-    }
 }
